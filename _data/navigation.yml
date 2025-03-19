@@ -1,16 +1,22 @@
 # Site navigation links
 
-- title: Our Community
+- title: Home
   url: /
   excerpt:
   image:
-
-- title: Our Collection
+- title: Upcoming Events
+  url: /events
+  excerpt:
+  image:
+- title: Research
+  url: /research
+  excerpt:
+  image:
+- title: Collection
   url: /collection
   excerpt:
   image:
-
-- title: Our Stories
-  url: /stories
+- title: Meet the Team
+  url: /about
   excerpt:
   image:
