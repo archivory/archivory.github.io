@@ -4,19 +4,19 @@
   url: /
   excerpt:
   image:
-- title: Upcoming Events
-  url: /events
+- title: Meet the Team
+  url: /about
   excerpt:
   image:
 - title: Research
   url: /research
   excerpt:
   image:
-- title: Collection
-  url: /collection
-  excerpt:
-  image:
-- title: Meet the Team
-  url: /about
+#- title: Collection
+#  url: /collection
+#  excerpt:
+#  image:
+- title: Upcoming Events
+  url: /events
   excerpt:
   image:
