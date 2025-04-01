@@ -35,7 +35,7 @@ Assistant Professor of Anthropology, Director of Indiana University's William R.
 PhD, World Wildlife Fund, Frankfurt, Germany
 </div>
 <div class="cell medium-5 small-offset-1 text-center">
-<img src="{{ site.baseurl }}{{ site.urlimg }}/Doug_portrait.png">
+<img src="{{ site.baseurl }}{{ site.urlimg }}/Doug_portrait.jpg">
 <h3>Douglas Sanders</h3>
 Conservator, Newfields - Indianapolis Museum of Art
 </div>
