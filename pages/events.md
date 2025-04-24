@@ -1,5 +1,5 @@
 ---
-title: Upcoming Events
+title: Events
 layout: page
 permalink: /events
 bannerphoto:
