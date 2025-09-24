@@ -1,0 +1,73 @@
+/* Main site stylesheet for Archivory */
+
+/* Navigation and header color */
+.darkbg {
+  background-color: #483b32 !important;
+  padding-top: 0.3rem !important;
+  padding-bottom: 0.3rem !important;
+}
+.top-bar {
+  min-height: 32px !important;
+}
+.title-bar {
+  min-height: 32px !important;
+}
+.menu-hover-lines > li > a {
+  padding-top: 0.2rem !important;
+  padding-bottom: 0.2rem !important;
+}
+
+/* Remove shading from 'More' tab and dropdown */
+.top-bar .menu > li:last-child,
+.top-bar .menu > li:last-child > a,
+.top-bar .menu > li:last-child > ul.menu {
+  background: none !important;
+  box-shadow: none !important;
+  filter: none !important;
+}
+
+/* Force 'More' tab background to match navigation bar */
+.top-bar .menu > li:last-child,
+.top-bar .menu > li:last-child > a {
+  background-color: #0a0a0a !important;
+  color: inherit !important;
+  box-shadow: none !important;
+  filter: none !important;
+}
+.top-bar .menu > li:last-child > ul.menu {
+  background: #0a0a0a !important;
+  box-shadow: none !important;
+  filter: none !important;
+}
+
+/* Remove all background, stripes, and borders from 'More' tab and dropdown, including parent ul */
+.top-bar .menu > li:last-child,
+.top-bar .menu > li:last-child > a,
+.top-bar .menu > li:last-child > ul.menu,
+.top-bar .menu,
+.top-bar .menu > li:last-child:before,
+.top-bar .menu > li:last-child:after,
+.top-bar .menu > li:last-child > a:before,
+.top-bar .menu > li:last-child > a:after {
+  background: #483b32 !important;
+  background-image: none !important;
+  color: inherit !important;
+  box-shadow: none !important;
+  filter: none !important;
+  border: none !important;
+}
+
+/* Footer, spacing, and other custom styles can be added here */
+
+/* Sticky footer for short pages */
+body, html {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.site-content {
+  flex: 1;
+}
+.accentbg {
+  margin-top: auto;
+}

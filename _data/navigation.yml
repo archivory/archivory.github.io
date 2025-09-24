@@ -1,22 +1,32 @@
+
 # Site navigation links
 
 - title: Home
   url: /
   excerpt:
   image:
-- title: Meet the Team
-  url: /about
+- title: Partner with Us
+  url: /partner
   excerpt:
   image:
 - title: Research
   url: /research
   excerpt:
   image:
-#- title: Collection
-#  url: /collection
-#  excerpt:
-#  image:
 - title: Events
   url: /events
+  excerpt:
+  image:
+  
+- title: Gallery
+  url: /pages/media
+  excerpt:
+  image:
+- title: Meet the Team
+  url: /team
+  excerpt:
+  image:
+- title: Contact
+  url: /contact
   excerpt:
   image:

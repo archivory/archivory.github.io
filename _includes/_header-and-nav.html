@@ -31,20 +31,19 @@ Home Link for Mobile
 Nav Loop
 ================================================== -->
 {% for nav in site.data.navigation %}
-			<li class="darkbg{% if page.url == nav.url %} active{% endif %}">
-				{% if nav.url contains "http" %}<a href="{{ nav.url }}" target="_blank">{% else %}<a href="{{ site.baseurl }}{{ nav.url }}">{% endif %}
-					{{ nav.title }}<!--{{ page.url }} == {{ nav.url }}-->
-
-				</a>
-			</li>
+  {% if nav.title != "Partner with Us" %}
+    <li class="darkbg{% if page.url == nav.url %} active{% endif %}">
+      {% if nav.url contains "http" %}<a href="{{ nav.url }}" target="_blank">{% else %}<a href="{{ site.baseurl }}{{ nav.url }}">{% endif %}
+        {{ nav.title }}<!--{{ page.url }} == {{ nav.url }}-->
+      </a>
+    </li>
+  {% endif %}
 {% endfor %}
       <li>
         <a href="#">More</a>
         <ul class="vertical menu">
-          <li><a href="{{ site.baseurl }}publications_and_presentations">Publications and Presentations</a></li>
-          <li><a href="{{ site.baseurl }}news">News</a></li>
-          <li><a href="{{ site.basurl }}acknowledgements">Acknowledgements</a></li>
-          <li><a href="{{ site.basurl}}contact">Contact</a></li>
+          <li><a href="{{ site.baseurl }}/partner">Partner with Us</a></li>
+          <li><a href="{{ site.baseurl }}/acknowledgements">Acknowledgements</a></li>
         </ul>
       </li>
       </ul>

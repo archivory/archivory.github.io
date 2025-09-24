@@ -1,9 +1,10 @@
 ---
-title: Get in Touch
+title: Contact
 layout: page
 permalink: /contact
 bannerphoto: contact.jpg
 ---
+
 <br>
 <div class="cell large-10">
 Do you have an ivory artifact and want to know more about it? Contact the ArchIvory team today! We're eager to learn about your piece, and if you're interested, we can run tests to uncover the history of the elephant behind it.

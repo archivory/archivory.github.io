@@ -4,24 +4,21 @@ layout: page
 permalink: /updates
 bannerphoto: updates.jpg
 ---
+
 <br>
-The project is on the move! See what we've been up to lately:
 
-<h3>News:</h3>
-The project is on the move! See what we've been up to lately:
 
-<h3>Publications:</h3>
+# Project Updates
+
 <ul>
-<li>
-"China's 1800s and Global Environment History: Some Visible Intersections." In China's 1800s: Material and Visual Culture, ed. Jessica Harrison-Hall. Seattle: University of Washington Press, 2024.
-</li>
-<li>Features research on the ivory trade and its impact in the 1800s.</li>
+		<li>Genetic and isotopic testing underway for six Chinese figurines in the Eskenazi Museum of Art.</li>
+		<li>ZooMS testing of artefacts at the Monroe County Historical Museum. Up next: 3D scanning!</li>
+		<li>Oral histories recorded and ivory testing scheduled from Monroe County to Porter County.</li>
+		<li>Public events scheduled at libraries in Vigo County, Brazil County, and Tipton County.</li>
+		<li>Completed K-12 Teacher Focus group in partnership with the IU School of Education.</li>
 </ul>
 
-<h3>Presentations:</h3>
+<h2>Past Events</h2>
 <ul>
-<li>"Ivory as a Source for Qing History," Presented at "On Eurasia and the Qing," Dartmouth College, Hanover, NH (September 2024)</li>
-<li>"XRF Spectroscopy and Ivory: Researching a Rapid Portable Test for Elephant Ivory," Presented to the EU Wildlife Forensics Conference, Prague, Czech Republic (September 2024).</li>
-<li>"In Search of History in Ivory's Archives," Presented at "Visual and Material Culture in China 1796-1912," British Museum, London, UK (June 9, 2023)</li>
-<li>"Assembling Ivory's Archives: Qing Texts, Art Collections, Elemental and Genetic Remains." Association for Asian Studies (AAS), Boston, MA (March, 2023).</li>
+	<li><strong>First Thursday Festival (September 2025):</strong> Photos and media from the September First Thursday event. <a href="/pages/first-thursday-september">View event page</a></li>
 </ul>

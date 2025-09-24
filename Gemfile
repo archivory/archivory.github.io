@@ -8,5 +8,6 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-include-cache"
+  gem "jekyll-remote-theme"
   gem "webrick" # to allow optional use of docker jekyll/jekyll:latest container
 end
