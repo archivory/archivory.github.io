@@ -17,21 +17,12 @@ bannerphoto:
 
 ---
 
-## Family Learning Day
-**Date:** September 27, 2025  
-**Location:** Vigo County Public Library, Terre Haute, Indiana  
-
-
-Join us for Family Learning Day at the Vigo County Public Library! This event is perfect for families looking to explore and learn together. Don't miss it!
-
----
-
 ## Scavenger Hunt
-**Date:** October 11, 2025  
+**Date:** November 1, 2025  
 **Location:** Brazil Library, Clay County  
 
 
-Join us for an exciting scavenger hunt at the Brazil Library in Clay County! Discover the wonders of elephants and the joys of conservation using the tools available at the local library. Fun for all ages!
+Come along for an exciting scavenger hunt at the Brazil Library in Clay County! Discover the wonders of elephants and the joys of conservation using the tools available at the local library. Fun for all ages!
 
 ---
 
@@ -63,6 +54,14 @@ Our first public education session! In this series, Professor Schlesinger and th
 ---
 
 # Past Events
+
+---
+
+## Family Learning Day
+**Date:** September 27, 2025  
+**Location:** Vigo County Public Library, Terre Haute, Indiana  
+
+The ArchIvory team traveled out to wonderful Terre Haute, Indiana on the banks of the mighty Wabash to participate in Family Learning Day! We engaged with many individuals and families and traded stories of ivories and interests while carving...soap? That's right! Our soap carving activity is enjoyable for people of all ages and provides a useful insight into the history of the ivory trade.
 
 ---
 

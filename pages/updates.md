@@ -18,7 +18,3 @@ bannerphoto: updates.jpg
 		<li>Completed K-12 Teacher Focus group in partnership with the IU School of Education.</li>
 </ul>
 
-<h2>Past Events</h2>
-<ul>
-	<li><strong>First Thursday Festival (September 2025):</strong> Photos and media from the September First Thursday event. <a href="/pages/first-thursday-september">View event page</a></li>
-</ul>

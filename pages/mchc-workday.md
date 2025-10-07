@@ -6,8 +6,8 @@ bannerphoto: research.jpg
 ---
 
 <div class="cell large-10">
-<h3>MCHC Workday: Photos & Videos</h3>
-<p>Below are photos and videos from the MCHC workday. Click on any image or video to view it in full size.</p>
+<h3>Monroe County History Center Workday: Photos & Videos</h3>
+<p>We were privileged to work with the team at the Monroe County History Center to perform ZooMS testing on a number of items, including an old lace kit and an organ from the 1800s! The pictures below show team members using tiny sticks, much like matches, to collect surface residues from the items. We then send these samples to our partners at labs across the country to analyze the results. </p>
 </div>
 
 <div class="grid-x grid-margin-x grid-margin-y">
