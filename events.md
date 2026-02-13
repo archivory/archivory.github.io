@@ -11,8 +11,6 @@ bannerphoto:
 	</p>
 </div>
 
-# Upcoming Events
-
 <!-- BEGIN EVENTS -->
 
 | Date | Title | Location | Description |
