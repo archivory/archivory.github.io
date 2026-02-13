@@ -4,15 +4,13 @@ layout: page
 permalink: /events
 bannerphoto:
 ---
-
-<!-- BEGIN EVENTS -->
-
 <div style="border:4px solid #abbf73;font-weight:bold;padding:0.4em 1.5em;margin-bottom:1.5em;border-radius:0;display:block;text-align:center;line-height:1.35;max-width:1000px;width:90%;margin-left:auto;margin-right:auto;">
 	<p style="margin:0;font-size:1.08em;color:#000000;font-family:'Montserrat', 'Arial', 'Helvetica Neue', sans-serif;line-height:1.35;white-space:pre-line;">
 		The Archivory team presents its work in a variety of different venues. We also partner with libraries, museums, and cultural heritage institutions to bring local and regional histories to life!
 	</p>
 </div>
 
+<!-- BEGIN EVENTS -->
 
 ---
 
