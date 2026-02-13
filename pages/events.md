@@ -13,8 +13,6 @@ bannerphoto:
 </div>
 
 
-# Upcoming Events
-
 ---
 
 ## Scavenger Hunt
