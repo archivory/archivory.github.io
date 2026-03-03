@@ -22,7 +22,7 @@ permalink: /research
 					   <img src="/assets/img/Machine learning identifies 18th and 19th century fans.jpg" alt="Machine Learning Identifies 18th and 19th Century Fans" style="width:100%; height:180px; object-fit:cover;">
 					<div style="padding:1rem; flex:1 1 auto; min-height:180px; display:flex; flex-direction:column;">
 						<h2 style="margin-top:0;">Database</h2>
-												<p style="flex:1 1 auto;"><strong>Coming soon: the ArchIvory interactive database!</strong></p>
+												<p style="flex:1 1 auto;"><strong>Launching 2026!</strong></p>
 												
 					</div>
 				</div>
